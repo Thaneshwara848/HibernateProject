@@ -1,0 +1,52 @@
+6 days 
+	
+phase - 2  : 
+	JDBC   
+	MYSQL 
+	Servelt
+		HTTPREq
+		res
+		
+		cookies 
+		httpsSession 
+		
+		filters
+		context 
+		config 
+	JSP 
+	Hibernate 
+
+
+
+
+
+JDBC 
+MYSQL 
+
+	CRUD :
+	
+
+
+Full Stack 
+
+
+Front End :
+		HTML 
+		CSS
+		JS 
+
+MiddlWare
+	java : Servet 
+				JDBC --------> Hibernate 
+backEnd 
+		MYSQL 
+ 
+
+
+echo "# HibernateProject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Thaneshwara848/HibernateProject.git
+git push -u origin main
